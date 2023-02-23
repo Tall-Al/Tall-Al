@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tall-Al
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript React
 
 <!---
 Tall-Al/Tall-Al is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
